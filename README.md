@@ -159,6 +159,10 @@ EDA was performed to answer the business questions and objectives listed below.
 
 * Which day of the week has the best average ratings per branch?
 
+# Analysis Dashboard
+
+<img width="1439" height="832" alt="Walmart_sales_analysis" src="https://github.com/user-attachments/assets/85943d78-acab-4d0b-a8ae-6f0f576e0c8e" />
+
 # Conclusion
 
 This project provides a comprehensive understanding of Walmart’s sales performance by analyzing product trends, customer behavior, and time-based purchasing patterns. Beyond identifying key insights, the analysis translates findings into strategic recommendations focused on improving product performance, strengthening customer loyalty, optimizing inventory planning, and enhancing operational efficiency.
