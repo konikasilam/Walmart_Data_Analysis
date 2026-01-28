@@ -1,8 +1,8 @@
 # Walmart_Sales_Data_Analysis
 
-This project explores Walmart's sales data to gain insights into top-performing branches and products, analyze sales trends across departments, and understand customer behavior. The objective is to identify key factors influencing sales performance and propose strategies for improving and optimizing sales outcomes.
+This project analyzes Walmart’s sales data to uncover insights into top-performing branches and product lines, evaluate sales and customer trends, and understand key factors influencing business performance. In addition to identifying patterns in sales behavior, this analysis translates insights into strategic recommendations aimed at improving revenue, operational efficiency, and customer satisfaction.
 
-The dataset, originally from a Kaggle competition, contains historical sales records from 45 Walmart stores across various regions. Each store includes multiple departments, and the challenge involves forecasting departmental sales while considering the effects of holiday markdown events. These markdowns significantly impact sales patterns, making it crucial to determine which departments are affected and to what extent.
+The dataset, sourced from a Kaggle Walmart Sales Forecasting competition, contains historical sales records across multiple Walmart branches and departments. The analysis focuses on identifying demand patterns, revenue drivers, and customer behavior while also assessing the impact of time, location, and product categories on sales performance.
 
 # Through detailed analysis, this project aims to:
 
@@ -161,4 +161,6 @@ EDA was performed to answer the business questions and objectives listed below.
 
 # Conclusion
 
-The project provides a comprehensive understanding of Walmart’s sales data, offering valuable insights into product performance, customer behavior, and sales trends. The findings can be used to refine marketing strategies, improve inventory planning, and enhance customer satisfaction.
+This project provides a comprehensive understanding of Walmart’s sales performance by analyzing product trends, customer behavior, and time-based purchasing patterns. Beyond identifying key insights, the analysis translates findings into strategic recommendations focused on improving product performance, strengthening customer loyalty, optimizing inventory planning, and enhancing operational efficiency.
+
+The insights and recommendations derived from this analysis can support data-driven decision-making, helping Walmart improve revenue growth, customer satisfaction, and overall business performance.
