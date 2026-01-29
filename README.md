@@ -161,7 +161,8 @@ EDA was performed to answer the business questions and objectives listed below.
 
 # Analysis Dashboard
 
-<img width="1439" height="832" alt="Walmart_sales_analysis" src="https://github.com/user-attachments/assets/85943d78-acab-4d0b-a8ae-6f0f576e0c8e" />
+<img width="1336" height="772" alt="Walmart_sales_performance_analysis" src="https://github.com/user-attachments/assets/4df5a6b0-f77b-4030-9573-7ab6d9bb86e6" />
+
 
 # Conclusion
 
